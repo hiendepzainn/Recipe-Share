@@ -1,0 +1,74 @@
+/* CSS RecipesList */
+.list-recipes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-recipes .item {
+  width: 17.18%;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 18px;
+  margin: 7px;
+}
+
+.list-recipes .item img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.list-recipes .item .title {
+  font-weight: 600;
+  font-size: 19px;
+  margin: 5px 0px 20px 0px;
+  height: 38px;
+}
+
+.list-recipes .item .rate-area {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.list-recipes .item .rate-area .rate {
+  display: flex;
+}
+
+.list-recipes .item .rate-area .rate .star {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+
+.list-recipes .item .rate-area .rate .star .icon-star {
+  color: #ff6c16;
+}
+
+.list-recipes .item button {
+  margin-right: 10px;
+}
+
+/* END CSS RecipesList */
+
+/* CSS Modal */
+
+.outer-modal {
+  width: 100%;
+  height: 100vh;
+  background-color: #ffffffb5;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.outer-modal .modal {
+  width: fit-content;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* END CSS Modal */
