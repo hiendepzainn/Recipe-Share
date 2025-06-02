@@ -25,12 +25,17 @@
       "difficulty": "Easy",
       "cuisine": "Italian",
       "caloriesPerServing": 300,
-      "tags": ["Pizza", "Italian"],
+      "tags": [
+        "Pizza",
+        "Italian"
+      ],
       "userId": 166,
       "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
       "rating": 4.6,
       "reviewCount": 98,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "2",
@@ -57,15 +62,21 @@
       "prepTimeMinutes": 15,
       "cookTimeMinutes": 20,
       "servings": 3,
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "cuisine": "Asian",
       "caloriesPerServing": 250,
-      "tags": ["Vegetarian", "Stir-fry", "Asian"],
+      "tags": [
+        "Vegetarian",
+        "Stir-fry",
+        "Asian"
+      ],
       "userId": 143,
       "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
       "rating": 4.7,
       "reviewCount": 26,
-      "mealType": ["Lunch"]
+      "mealType": [
+        "Lunch"
+      ]
     },
     {
       "id": "3",
@@ -97,12 +108,19 @@
       "difficulty": "Easy",
       "cuisine": "American",
       "caloriesPerServing": 150,
-      "tags": ["Cookies", "Dessert", "Baking"],
+      "tags": [
+        "Cookies",
+        "Dessert",
+        "Baking"
+      ],
       "userId": 34,
       "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
-      "rating": 4.9,
+      "rating": "4.7",
       "reviewCount": 13,
-      "mealType": ["Snack", "Dessert"]
+      "mealType": [
+        "Snack",
+        "Dessert"
+      ]
     },
     {
       "id": "4",
@@ -132,12 +150,18 @@
       "difficulty": "Medium",
       "cuisine": "Italian",
       "caloriesPerServing": 500,
-      "tags": ["Pasta", "Chicken"],
+      "tags": [
+        "Pasta",
+        "Chicken"
+      ],
       "userId": 136,
       "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
       "rating": 4.9,
       "reviewCount": 82,
-      "mealType": ["Lunch", "Dinner"]
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     {
       "id": "5",
@@ -165,12 +189,17 @@
       "difficulty": "Easy",
       "cuisine": "Mexican",
       "caloriesPerServing": 380,
-      "tags": ["Chicken", "Salsa"],
+      "tags": [
+        "Chicken",
+        "Salsa"
+      ],
       "userId": 26,
       "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
       "rating": 4.9,
       "reviewCount": 63,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "6",
@@ -197,80 +226,18 @@
       "difficulty": "Easy",
       "cuisine": "Mediterranean",
       "caloriesPerServing": 280,
-      "tags": ["Salad", "Quinoa"],
+      "tags": [
+        "Salad",
+        "Quinoa"
+      ],
       "userId": 197,
       "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
       "rating": 4.4,
       "reviewCount": 59,
-      "mealType": ["Lunch", "Side Dish"]
-    },
-    {
-      "id": "7",
-      "name": "Tomato Basil Bruschetta",
-      "ingredients": [
-        "Baguette, sliced",
-        "Tomatoes, diced",
-        "Fresh basil, chopped",
-        "Garlic cloves, minced",
-        "Balsamic glaze",
-        "Olive oil",
-        "Salt and pepper to taste"
-      ],
-      "instructions": [
-        "Preheat the oven to 375°F (190°C).",
-        "Place baguette slices on a baking sheet and toast in the oven until golden brown.",
-        "In a bowl, combine diced tomatoes, chopped fresh basil, minced garlic, and a drizzle of olive oil.",
-        "Season with salt and pepper to taste.",
-        "Top each toasted baguette slice with the tomato-basil mixture.",
-        "Drizzle with balsamic glaze before serving."
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 10,
-      "servings": 6,
-      "difficulty": "Easy",
-      "cuisine": "Italian",
-      "caloriesPerServing": 120,
-      "tags": ["Bruschetta", "Italian"],
-      "userId": 137,
-      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
-      "rating": 4.7,
-      "reviewCount": 95,
-      "mealType": ["Appetizer"]
-    },
-    {
-      "id": "8",
-      "name": "Beef and Broccoli Stir-Fry",
-      "ingredients": [
-        "Beef sirloin, thinly sliced",
-        "Broccoli florets",
-        "Soy sauce",
-        "Oyster sauce",
-        "Sesame oil",
-        "Garlic, minced",
-        "Ginger, minced",
-        "Cornstarch",
-        "Cooked white rice for serving"
-      ],
-      "instructions": [
-        "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch to create the sauce.",
-        "In a wok, stir-fry thinly sliced beef until browned. Remove from the wok.",
-        "Stir-fry broccoli florets, minced garlic, and minced ginger in the same wok.",
-        "Add the cooked beef back to the wok and pour the sauce over the mixture.",
-        "Stir until everything is coated and heated through.",
-        "Serve over cooked white rice."
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Asian",
-      "caloriesPerServing": 380,
-      "tags": ["Beef", "Stir-fry", "Asian"],
-      "userId": 18,
-      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
-      "rating": 4.7,
-      "reviewCount": 58,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Lunch",
+        "Side Dish"
+      ]
     },
     {
       "id": "9",
@@ -296,12 +263,17 @@
       "difficulty": "Easy",
       "cuisine": "Italian",
       "caloriesPerServing": 200,
-      "tags": ["Salad", "Caprese"],
+      "tags": [
+        "Salad",
+        "Caprese"
+      ],
       "userId": 128,
       "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
       "rating": 4.6,
       "reviewCount": 82,
-      "mealType": ["Lunch"]
+      "mealType": [
+        "Lunch"
+      ]
     },
     {
       "id": "10",
@@ -331,12 +303,17 @@
       "difficulty": "Medium",
       "cuisine": "Italian",
       "caloriesPerServing": 400,
-      "tags": ["Pasta", "Shrimp"],
+      "tags": [
+        "Pasta",
+        "Shrimp"
+      ],
       "userId": 114,
       "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
       "rating": 4.3,
       "reviewCount": 5,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "11",
@@ -381,89 +358,10 @@
       "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
       "rating": 5,
       "reviewCount": 32,
-      "mealType": ["Lunch", "Dinner"]
-    },
-    {
-      "id": "12",
-      "name": "Chicken Karahi",
-      "ingredients": [
-        "Chicken, cut into pieces",
-        "Tomatoes, chopped",
-        "Green chilies, sliced",
-        "Ginger, julienned",
-        "Garlic, minced",
-        "Coriander powder",
-        "Cumin powder",
-        "Red chili powder",
-        "Garam masala",
-        "Cooking oil",
-        "Fresh coriander leaves",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.",
-        "Add chicken pieces and cook until browned on all sides.",
-        "Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.",
-        "Cover and simmer until the chicken is tender and the oil separates from the masala.",
-        "Garnish with fresh coriander leaves and serve hot with naan or rice."
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 30,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 420,
-      "tags": [
-        "Chicken",
-        "Karahi",
-        "Main course",
-        "Indian",
-        "Pakistani",
-        "Asian"
-      ],
-      "userId": 49,
-      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
-      "rating": 4.8,
-      "reviewCount": 68,
-      "mealType": ["Lunch", "Dinner"]
-    },
-    {
-      "id": "13",
-      "name": "Aloo Keema",
-      "ingredients": [
-        "Ground beef",
-        "Potatoes, peeled and diced",
-        "Onions, finely chopped",
-        "Tomatoes, chopped",
-        "Ginger-garlic paste",
-        "Cumin powder",
-        "Coriander powder",
-        "Turmeric powder",
-        "Red chili powder",
-        "Cooking oil",
-        "Fresh coriander leaves",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "In a pan, heat cooking oil and sauté chopped onions until golden brown.",
-        "Add ginger-garlic paste and sauté until fragrant.",
-        "Add ground beef and cook until browned. Drain excess oil if needed.",
-        "Add diced potatoes, chopped tomatoes, and spices. Mix well.",
-        "Cover and simmer until the potatoes are tender and the masala is well-cooked.",
-        "Garnish with fresh coriander leaves and serve hot with naan or rice."
-      ],
-      "prepTimeMinutes": 25,
-      "cookTimeMinutes": 35,
-      "servings": 5,
-      "difficulty": "Medium",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 380,
-      "tags": ["Keema", "Potatoes", "Main course", "Pakistani", "Asian"],
-      "userId": 152,
-      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
-      "rating": 4.6,
-      "reviewCount": 53,
-      "mealType": ["Lunch", "Dinner"]
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     {
       "id": "14",
@@ -496,12 +394,22 @@
       "difficulty": "Medium",
       "cuisine": "Pakistani",
       "caloriesPerServing": 320,
-      "tags": ["Kebabs", "Beef", "Indian", "Pakistani", "Asian"],
+      "tags": [
+        "Kebabs",
+        "Beef",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
       "userId": 152,
       "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
       "rating": 4.7,
       "reviewCount": 98,
-      "mealType": ["Lunch", "Dinner", "Snacks"]
+      "mealType": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ]
     },
     {
       "id": "15",
@@ -530,12 +438,23 @@
       "difficulty": "Medium",
       "cuisine": "Pakistani",
       "caloriesPerServing": 280,
-      "tags": ["Saag", "Roti", "Main course", "Indian", "Pakistani", "Asian"],
+      "tags": [
+        "Saag",
+        "Roti",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
       "userId": 43,
       "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
       "rating": 4.3,
       "reviewCount": 86,
-      "mealType": ["Breakfast", "Lunch", "Dinner"]
+      "mealType": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ]
     },
     {
       "id": "16",
@@ -567,12 +486,19 @@
       "difficulty": "Medium",
       "cuisine": "Japanese",
       "caloriesPerServing": 480,
-      "tags": ["Ramen", "Japanese", "Soup", "Asian"],
+      "tags": [
+        "Ramen",
+        "Japanese",
+        "Soup",
+        "Asian"
+      ],
       "userId": 85,
       "image": "https://cdn.dummyjson.com/recipe-images/16.webp",
       "rating": 4.9,
       "reviewCount": 38,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "17",
@@ -605,12 +531,18 @@
       "difficulty": "Easy",
       "cuisine": "Moroccan",
       "caloriesPerServing": 320,
-      "tags": ["Tagine", "Chickpea", "Moroccan"],
+      "tags": [
+        "Tagine",
+        "Chickpea",
+        "Moroccan"
+      ],
       "userId": 207,
       "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
       "rating": 4.5,
       "reviewCount": 50,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "18",
@@ -641,12 +573,18 @@
       "difficulty": "Medium",
       "cuisine": "Korean",
       "caloriesPerServing": 550,
-      "tags": ["Bibimbap", "Korean", "Rice"],
+      "tags": [
+        "Bibimbap",
+        "Korean",
+        "Rice"
+      ],
       "userId": 121,
       "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
       "rating": 4.9,
       "reviewCount": 56,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "19",
@@ -681,15 +619,20 @@
       "prepTimeMinutes": 45,
       "cookTimeMinutes": 45,
       "servings": 6,
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "cuisine": "Greek",
       "caloriesPerServing": 420,
-      "tags": ["Moussaka", "Greek"],
+      "tags": [
+        "Moussaka",
+        "Greek"
+      ],
       "userId": 173,
       "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
       "rating": 4.3,
       "reviewCount": 26,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "20",
@@ -720,204 +663,20 @@
       "difficulty": "Medium",
       "cuisine": "Pakistani",
       "caloriesPerServing": 480,
-      "tags": ["Butter chicken", "Curry", "Indian", "Pakistani", "Asian"],
+      "tags": [
+        "Butter chicken",
+        "Curry",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
       "userId": 138,
       "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
       "rating": 4.5,
       "reviewCount": 44,
-      "mealType": ["Dinner"]
-    },
-    {
-      "id": "21",
-      "name": "Thai Green Curry",
-      "ingredients": [
-        "Chicken thighs, boneless and skinless",
-        "Green curry paste",
-        "Coconut milk",
-        "Fish sauce",
-        "Sugar",
-        "Eggplant, sliced",
-        "Bell peppers, sliced",
-        "Basil leaves",
-        "Jasmine rice for serving"
-      ],
-      "instructions": [
-        "In a pot, simmer green curry paste in coconut milk.",
-        "Add chicken, fish sauce, and sugar. Cook until chicken is tender.",
-        "Stir in sliced eggplant and bell peppers. Simmer until vegetables are cooked.",
-        "Garnish with fresh basil leaves.",
-        "Serve hot over jasmine rice and enjoy this Thai classic!"
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 30,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Thai",
-      "caloriesPerServing": 480,
-      "tags": ["Curry", "Thai"],
-      "userId": 153,
-      "image": "https://cdn.dummyjson.com/recipe-images/21.webp",
-      "rating": 4.2,
-      "reviewCount": 18,
-      "mealType": ["Dinner"]
-    },
-    {
-      "id": "22",
-      "name": "Mango Lassi",
-      "ingredients": [
-        "Ripe mango, peeled and diced",
-        "Yogurt",
-        "Milk",
-        "Honey",
-        "Cardamom powder",
-        "Ice cubes"
-      ],
-      "instructions": [
-        "In a blender, combine diced mango, yogurt, milk, honey, and cardamom powder.",
-        "Blend until smooth and creamy.",
-        "Add ice cubes and blend again until the lassi is chilled.",
-        "Pour into glasses and garnish with a sprinkle of cardamom.",
-        "Enjoy this refreshing Mango Lassi!"
-      ],
-      "prepTimeMinutes": 10,
-      "cookTimeMinutes": 0,
-      "servings": 2,
-      "difficulty": "Easy",
-      "cuisine": "Indian",
-      "caloriesPerServing": 180,
-      "tags": ["Lassi", "Mango", "Indian", "Pakistani", "Asian"],
-      "userId": 76,
-      "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
-      "rating": 4.7,
-      "reviewCount": 15,
-      "mealType": ["Beverage"]
-    },
-    {
-      "id": "23",
-      "name": "Italian Tiramisu",
-      "ingredients": [
-        "Espresso, brewed and cooled",
-        "Ladyfinger cookies",
-        "Mascarpone cheese",
-        "Heavy cream",
-        "Sugar",
-        "Cocoa powder"
-      ],
-      "instructions": [
-        "In a bowl, whip heavy cream until stiff peaks form.",
-        "In another bowl, mix mascarpone cheese and sugar until smooth.",
-        "Gently fold the whipped cream into the mascarpone mixture.",
-        "Dip ladyfinger cookies into brewed espresso and layer them in a serving dish.",
-        "Spread a layer of the mascarpone mixture over the cookies.",
-        "Repeat layers and finish with a dusting of cocoa powder.",
-        "Chill in the refrigerator for a few hours before serving.",
-        "Indulge in the decadence of this classic Italian Tiramisu!"
-      ],
-      "prepTimeMinutes": 30,
-      "cookTimeMinutes": 0,
-      "servings": 6,
-      "difficulty": "Medium",
-      "cuisine": "Italian",
-      "caloriesPerServing": 350,
-      "tags": ["Tiramisu", "Italian"],
-      "userId": 130,
-      "image": "https://cdn.dummyjson.com/recipe-images/23.webp",
-      "rating": 4.6,
-      "reviewCount": 0,
-      "mealType": ["Dessert"]
-    },
-    {
-      "id": "24",
-      "name": "Turkish Kebabs",
-      "ingredients": [
-        "Ground lamb or beef",
-        "Onions, grated",
-        "Garlic, minced",
-        "Parsley, finely chopped",
-        "Cumin",
-        "Coriander",
-        "Red pepper flakes",
-        "Salt and pepper to taste",
-        "Flatbread for serving",
-        "Tahini sauce"
-      ],
-      "instructions": [
-        "In a bowl, mix ground meat, grated onions, minced garlic, chopped parsley, and spices.",
-        "Form the mixture into kebab shapes and grill until fully cooked.",
-        "Serve the kebabs on flatbread with a drizzle of tahini sauce.",
-        "Enjoy these flavorful Turkish Kebabs with your favorite sides."
-      ],
-      "prepTimeMinutes": 25,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Turkish",
-      "caloriesPerServing": 280,
-      "tags": ["Kebabs", "Turkish", "Grilling"],
-      "userId": 26,
-      "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
-      "rating": 4.6,
-      "reviewCount": 78,
-      "mealType": ["Dinner"]
-    },
-    {
-      "id": "25",
-      "name": "Blueberry Banana Smoothie",
-      "ingredients": [
-        "Blueberries, fresh or frozen",
-        "Banana, peeled and sliced",
-        "Greek yogurt",
-        "Almond milk",
-        "Honey",
-        "Chia seeds (optional)"
-      ],
-      "instructions": [
-        "In a blender, combine blueberries, banana, Greek yogurt, almond milk, and honey.",
-        "Blend until smooth and creamy.",
-        "Add chia seeds for extra nutrition and blend briefly.",
-        "Pour into a glass and enjoy this nutritious Blueberry Banana Smoothie!"
-      ],
-      "prepTimeMinutes": 10,
-      "cookTimeMinutes": 0,
-      "servings": 1,
-      "difficulty": "Easy",
-      "cuisine": "Smoothie",
-      "caloriesPerServing": 220,
-      "tags": ["Smoothie", "Blueberry", "Banana"],
-      "userId": 16,
-      "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
-      "rating": 4.8,
-      "reviewCount": 30,
-      "mealType": ["Breakfast", "Beverage"]
-    },
-    {
-      "id": "26",
-      "name": "Mexican Street Corn (Elote)",
-      "ingredients": [
-        "Corn on the cob",
-        "Mayonnaise",
-        "Cotija cheese, crumbled",
-        "Chili powder",
-        "Lime wedges"
-      ],
-      "instructions": [
-        "Grill or roast corn on the cob until kernels are charred.",
-        "Brush each cob with mayonnaise, then sprinkle with crumbled Cotija cheese and chili powder.",
-        "Serve with lime wedges for squeezing over the top.",
-        "Enjoy this delicious and flavorful Mexican Street Corn!"
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Mexican",
-      "caloriesPerServing": 180,
-      "tags": ["Elote", "Mexican", "Street food"],
-      "userId": 93,
-      "image": "https://cdn.dummyjson.com/recipe-images/26.webp",
-      "rating": 4.6,
-      "reviewCount": 2,
-      "mealType": ["Snack", "Side Dish"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "27",
@@ -947,12 +706,18 @@
       "difficulty": "Medium",
       "cuisine": "Russian",
       "caloriesPerServing": 220,
-      "tags": ["Borscht", "Russian", "Soup"],
+      "tags": [
+        "Borscht",
+        "Russian",
+        "Soup"
+      ],
       "userId": 1,
       "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
       "rating": 4.3,
       "reviewCount": 39,
-      "mealType": ["Dinner"]
+      "mealType": [
+        "Dinner"
+      ]
     },
     {
       "id": "28",
@@ -983,45 +748,18 @@
       "difficulty": "Medium",
       "cuisine": "Indian",
       "caloriesPerServing": 320,
-      "tags": ["Dosa", "Indian", "Asian"],
+      "tags": [
+        "Dosa",
+        "Indian",
+        "Asian"
+      ],
       "userId": 138,
       "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
       "rating": 4.4,
       "reviewCount": 96,
-      "mealType": ["Breakfast"]
-    },
-    {
-      "id": "29",
-      "name": "Lebanese Falafel Wrap",
-      "ingredients": [
-        "Falafel balls",
-        "Whole wheat or regular wraps",
-        "Tomatoes, diced",
-        "Cucumbers, sliced",
-        "Red onions, thinly sliced",
-        "Lettuce, shredded",
-        "Tahini sauce",
-        "Fresh parsley, chopped"
-      ],
-      "instructions": [
-        "Warm falafel balls according to package instructions.",
-        "Place a generous serving of falafel in the center of each wrap.",
-        "Top with diced tomatoes, sliced cucumbers, red onions, shredded lettuce, and fresh parsley.",
-        "Drizzle with tahini sauce and wrap tightly.",
-        "Enjoy this Lebanese Falafel Wrap filled with fresh and flavorful ingredients!"
-      ],
-      "prepTimeMinutes": 15,
-      "cookTimeMinutes": 10,
-      "servings": 2,
-      "difficulty": "Easy",
-      "cuisine": "Lebanese",
-      "caloriesPerServing": 400,
-      "tags": ["Falafel", "Lebanese", "Wrap"],
-      "userId": 110,
-      "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
-      "rating": 4.7,
-      "reviewCount": 84,
-      "mealType": ["Lunch"]
+      "mealType": [
+        "Breakfast"
+      ]
     },
     {
       "id": "30",
@@ -1045,14 +783,19 @@
       "difficulty": "Easy",
       "cuisine": "Brazilian",
       "caloriesPerServing": 150,
-      "tags": ["Caipirinha", "Brazilian", "Cocktail"],
+      "tags": [
+        "Caipirinha",
+        "Brazilian",
+        "Cocktail"
+      ],
       "userId": 134,
       "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
       "rating": 4.4,
       "reviewCount": 55,
-      "mealType": ["Beverage"]
+      "mealType": [
+        "Beverage"
+      ]
     },
-
     {
       "id": "3993",
       "name": "Beefsteak",
@@ -1072,6 +815,26 @@
       "image": "https://www.tasteofhome.com/wp-content/uploads/2025/02/Favorite-Mediterranean-Salad_EXPS_TOHcom25_41556_MD_P2_02_05_1b.jpg",
       "rating": "4.7",
       "reviewCount": "22"
+    },
+    {
+      "id": "a095",
+      "name": "Spaghetti Alfredo",
+      "difficulty": "Medium",
+      "cookTimeMinutes": "40",
+      "cuisine": "American",
+      "image": "https://www.vanillabeancuisine.com/wp-content/uploads/2024/12/Spaghetti-Alfredo-FEAT-IMAGE.jpg",
+      "rating": "4.3",
+      "reviewCount": "28"
+    },
+    {
+      "id": "d260",
+      "name": "Duck Salad",
+      "difficulty": "Medium",
+      "cookTimeMinutes": "40",
+      "cuisine": "Vietnamese",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMDg-QBfSlXkOqlDPQUarOF9ieciRQNy0vg&s",
+      "rating": "4.4",
+      "reviewCount": "50"
     }
   ],
   "total": 50,

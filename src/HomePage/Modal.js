@@ -21,6 +21,8 @@ var Modal = ({ isShowModal, setIsShowModal }) => {
     addNewRecipe(newRecipe);
     setIsShowModal(false);
 
+    alert("Tạo món mới thành công!");
+
     console.log(newRecipe);
   };
 
@@ -53,6 +55,7 @@ var Modal = ({ isShowModal, setIsShowModal }) => {
       {isShowModal ? (
         <div className="outer-modal">
           <div className="modal">
+            <h2>Tạo mới món ăn</h2>
             <form onSubmit={handleSubmit}>
               <table>
                 <thead>

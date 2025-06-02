@@ -1,6 +1,14 @@
 import { FaStar } from "react-icons/fa6";
 
-var RecipesList = ({ data }) => {
+var RecipesList = ({ data, setShowDeleteModal, setShowUpdateModal }) => {
+  var openDeleteModal = (id) => {
+    setShowDeleteModal({ isShow: true, id: id });
+  };
+
+  var openUpdateModal = (id) => {
+    setShowUpdateModal({ isShow: true, id: id });
+  };
+
   return (
     <>
       <div className="list-recipes">
@@ -26,8 +34,24 @@ var RecipesList = ({ data }) => {
                 </div>
               </div>
             </div>
-            <button>Edit</button>
-            <button>Delete</button>
+            <div className="button-area">
+              <button
+                className="edit-button"
+                onClick={() => {
+                  openUpdateModal(item.id);
+                }}
+              >
+                Edit
+              </button>
+              <button
+                className="delete-button"
+                onClick={() => {
+                  openDeleteModal(item.id);
+                }}
+              >
+                Delete
+              </button>
+            </div>
           </div>
         ))}
       </div>
