@@ -1,11 +1,11 @@
 # Recipe-Share React web app
 
 - This is a simple React web app, where I practice React hooks
-- This web app shows Recipes and related information
-- This web app alse have some basic CRUD features: 
-  + Add new recipe
-  + Delete recipe
-  + Update information of recipe
+- This web app shows Dishes and related information
+- This web app also have some basic CRUD features: 
+  + Add new dish
+  + Delete dish
+  + Update information of dish
 
 
 ## User Interface (UI)
