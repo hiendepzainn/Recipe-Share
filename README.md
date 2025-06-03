@@ -25,5 +25,5 @@ After clone this repository, you can start this project by following steps:
   + `npm start`
 
 ## Video demo
-Open [this video](https://www.youtube.com/) to view demo of this repository.
+Open [this video](https://www.youtube.com/watch?v=KNbzDMZswbg) to view demo of this repository.
 
